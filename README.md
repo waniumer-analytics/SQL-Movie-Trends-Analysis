@@ -23,18 +23,21 @@ The goal was to build a strong SQL portfolio project demonstrating:
 
 This project uses 5 CSV files:
 
-actors.csv
-movies.csv
-movie actor.csv
-language.csv
-financials.csv
+1. actors.csv
+2. movies.csv
+3. movie actor.csv
+4. language.csv
+5. financials.csv
         
                                                              How to Run the Project
+   
 ##  Create a database
+
 CREATE DATABASE movie_db;
 USE movie_db;
 
 ##  Import schema
+
 mysql -u root -p movie_db < sql/schema.sql
 
 ##  Load CSV files
@@ -47,7 +50,9 @@ FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
 IGNORE 1 ROWS;
 
+
                                                        The project includes 15 structured SQL tasks
+                                                       
 
 Basic 
 
@@ -71,10 +76,7 @@ Basic
 3. Movies above industry avg IMDb rating.
 4. Highest ROI movie.
 5. Full movie summary report using CTEs.
-
-     Additional Advanced Questions (12 more)
-
-
+  
 1. Actor with highest total box-office revenue
 
 2. Top 3 actors by average IMDb rating
@@ -98,27 +100,18 @@ Basic
 
                                                                  What I Learned From This Project
 
- # How to structure SQL queries for analysis
-
-# How to normalize financial data with inconsistent units
-
-# Managing a many-to-many relationship using a bridge table
-
-# Using window functions, CTEs, subqueries, and stored procedures
-
-# How to think like a movie-analytics team (profitability, ROI, star power)
+ 1.  How to structure SQL queries for analysis
+2.  How to normalize financial data with inconsistent units
+3.  Managing a many-to-many relationship using a bridge table
+4.  Using window functions, CTEs, subqueries, and stored procedures
+5.  How to think like a movie-analytics team (profitability, ROI, star power)
 
                                                                          Who This Project Is For
 
-
-
-# Data analysts
-
-#SQL learners
-
-# BI developers
-
-# Anyone creating portfolio projects
+1.  Data analysts
+2. SQL learners
+3.  BI developers
+4.  Anyone creating portfolio projects
 
 
 
