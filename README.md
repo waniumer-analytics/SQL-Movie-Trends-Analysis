@@ -2,10 +2,11 @@
 
                                          Movie Industry Analytics Using SQL
 
-                                    Domain: Entertainment / Movie Industry Analytics
+                                    Domain: Entertainment / Movie Industry Analytics.
 
+<img width="1536" height="1024" alt="THUMBNAIL" src="https://github.com/user-attachments/assets/be1d5739-2987-4469-bf1f-dc618bc83a63" />
 
-                                                   Tools:
+                                           TOOLS USED.
 1. MySQL
 2. Relational Database Design.
 3.  SQL (CTEs, Window Functions, Stored Procedures).
@@ -16,14 +17,14 @@
 
                                                         Business Problem
 
-Movie production involves **high financial risk**. Studios must decide:
+-> Movie production involves high financial risk. Studios must decide:
 
 * which actors to cast
 * how much budget to allocate
 * which markets and languages perform best
 * which movies generate the highest returns
 
-This project uses SQL-based analysis to answer questions such as:
+-> This project uses SQL-based analysis to answer questions such as:
 
 * Which movies generate the highest ROI?
 * Which actors contribute the most to box-office revenue?
@@ -32,7 +33,7 @@ This project uses SQL-based analysis to answer questions such as:
 
                                                        Dataset Overview
 
-The dataset contains Five relational tables representing different components of the movie ecosystem.
+-> The dataset contains Five relational tables representing different components of the movie ecosystem.
 
 | Table       | Description                                                      |
 | ----------- | ---------------------------------------------------------------- |
@@ -49,6 +50,7 @@ This structure enables multi-dimensional analysis across financial, industry, an
                                              Database Schema (Conceptual Model)
 
 -> The dataset follows a relational structure:-
+
 Actors
    │
 movie_actor
@@ -178,4 +180,5 @@ Potential extensions for this project include:
 .WANI UMER
 . Data Analyst.
 
-LinkedIn :- [www.linkedin.com/in/waniumer-analytics](http://www.linkedin.com/in/waniumer-analytics)
+LinkedIn :- [www.linkedin.com/in/waniumer-analytics].
+Portfolio:- 
