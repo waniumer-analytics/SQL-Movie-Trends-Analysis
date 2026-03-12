@@ -153,5 +153,5 @@ This project demonstrates practical SQL skills including:
                                                          
                                                              LINK 
 - WANI UMER.   (Data Analyst.).
-- LinkedIn :- [www.linkedin.com/in/waniumer-analytics].
+- LinkedIn :- https://www.linkedin.com/posts/waniumer-analytics_github-waniumer-analyticssql-movie-trends-analysis-activity-7437784508659122176-b4qG?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFNS0HwB-OAdiVBbiM-Z0IdF32qvthi_XwE 
 - Portfolio:- https://codebasics.io/portfolio/WANI-UMER .
